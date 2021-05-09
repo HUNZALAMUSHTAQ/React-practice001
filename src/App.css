@@ -1,0 +1,24 @@
+.time{
+  background-color: rgba(248, 248, 68, 0.5);
+}
+.timeNight{
+  background-color: rgba(62, 115, 165, 0.829);
+  color: aliceblue;
+
+}
+.timeNight,.time{
+  text-align: center;
+
+}
+button{
+  font-size: 16px;
+  font-family: monospace;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: white;
+}button:hover{
+  border-radius: 12px;
+  font-size: 17px;
+
+  background-color: rgba(255, 255, 255, 0.555);
+}
